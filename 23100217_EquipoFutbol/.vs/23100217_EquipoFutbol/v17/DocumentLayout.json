@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|g:\\otros ordenadores\\mi pc\\poo\\23100217_equipofutbol\\23100217_equipofutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|solutionrelative:23100217_equipofutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|g:\\otros ordenadores\\mi pc\\poo\\23100217_equipofutbol\\23100217_equipofutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|solutionrelative:23100217_equipofutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_equipofutbol\\clsposicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|solutionrelative:23100217_equipofutbol\\clsposicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_equipofutbol\\clspartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|solutionrelative:23100217_equipofutbol\\clspartido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_equipofutbol\\clsjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C310833-7D59-43B7-9F2F-40E5F85B1C30}|23100217_EquipoFutbol\\23100217_EquipoFutbol.csproj|solutionrelative:23100217_equipofutbol\\clsjugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 79,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\Form1.cs",
+              "RelativeDocumentMoniker": "23100217_EquipoFutbol\\Form1.cs",
+              "ToolTip": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "23100217_EquipoFutbol\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:26:30.757Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPosicion.cs",
+              "DocumentMoniker": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsPosicion.cs",
+              "RelativeDocumentMoniker": "23100217_EquipoFutbol\\clsPosicion.cs",
+              "ToolTip": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsPosicion.cs",
+              "RelativeToolTip": "23100217_EquipoFutbol\\clsPosicion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:07:21.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsPartido.cs",
+              "DocumentMoniker": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsPartido.cs",
+              "RelativeDocumentMoniker": "23100217_EquipoFutbol\\clsPartido.cs",
+              "ToolTip": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsPartido.cs",
+              "RelativeToolTip": "23100217_EquipoFutbol\\clsPartido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:17:29.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\Form1.cs",
+              "RelativeDocumentMoniker": "23100217_EquipoFutbol\\Form1.cs",
+              "ToolTip": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\Form1.cs",
+              "RelativeToolTip": "23100217_EquipoFutbol\\Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:02:15.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsJugador.cs",
+              "DocumentMoniker": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsJugador.cs",
+              "RelativeDocumentMoniker": "23100217_EquipoFutbol\\clsJugador.cs",
+              "ToolTip": "G:\\Otros ordenadores\\Mi PC\\POO\\23100217_EquipoFutbol\\23100217_EquipoFutbol\\clsJugador.cs",
+              "RelativeToolTip": "23100217_EquipoFutbol\\clsJugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:16:23.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

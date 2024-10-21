@@ -1,0 +1,10 @@
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\bin\Debug\23100217_EquipoFutbol.exe.config
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\bin\Debug\23100217_EquipoFutbol.exe
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\bin\Debug\23100217_EquipoFutbol.pdb
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\23100217_EquipoFutbol.csproj.AssemblyReference.cache
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\_23100217_EquipoFutbol.Form1.resources
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\_23100217_EquipoFutbol.Properties.Resources.resources
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\23100217_EquipoFutbol.csproj.GenerateResource.cache
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\23100217_EquipoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\23100217_EquipoFutbol.exe
+C:\Users\mv503\Desktop\POO\23100217_EquipoFutbol\23100217_EquipoFutbol\obj\Debug\23100217_EquipoFutbol.pdb
